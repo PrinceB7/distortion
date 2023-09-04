@@ -1,0 +1,11 @@
+# video
+*.mp4
+*.mkv
+*.MOV
+
+#images
+*.png
+*.jpg
+*.jpeg
+
+__pycache__
